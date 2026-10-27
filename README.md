@@ -10,4 +10,4 @@ The issue with particle was that the shader could occasionally output an invalid
 
 I need to pass the dialogue content from the scriptable to the an object in the scene. How? I made a reference to the `DialogueBox` in the `DialogueTrigger` script.
 
-But when I move my character into the trigger, nothing happens.
+But when I move my character into the trigger, nothing happens. I forgot to save the script after editing. Classic programmer mistake!
